@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andersonseippel@hotmail.com
+	name = anderson santos
